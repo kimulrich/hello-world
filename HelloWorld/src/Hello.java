@@ -8,6 +8,7 @@ public class Hello {
 		// dette er en ændring til v.02 branch
 		// dette er v.03 branch
 		// dette er v0.4 branch
+		// dette er v0.5 branch
 	}
 
 }
