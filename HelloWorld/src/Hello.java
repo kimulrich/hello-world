@@ -9,6 +9,7 @@ public class Hello {
 		// dette er v.03 branch
 		// dette er v0.4 branch
 		// dette er v0.5 branch
+		// dette er v0.6 branch
 	}
 
 }
