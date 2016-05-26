@@ -5,6 +5,7 @@ public class Hello {
 		System.out.println("Hello World");
 		// dette er en ændring til v.01 branch
 		// dette er en ny ændring til v.01 branch
+		// dette er en ændring til v.02 branch
 	}
 
 }
