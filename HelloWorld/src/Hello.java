@@ -12,5 +12,6 @@ public class Hello {
 		// dette er v0.6 branch
 		System.out.println("Hello World");
 	}
-
+// dette er et forsøg på at tvinge en indksering igennem ved at lave en fil-ændring.
 }
+
